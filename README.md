@@ -1,2 +1,66 @@
-# web
-web
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+    R1DZ STORE
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <style>
+   @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    body {
+      font-family: 'Roboto', sans-serif;
+    }
+  </style>
+ </head>
+ <body class="bg-gradient-to-r from-cyan-500 to-blue-700 min-h-screen flex flex-col items-center px-4 pt-20 pb-10 text-white">
+  <!-- Top lanterns and clouds container -->
+  <div class="relative w-full max-w-md flex justify-center mb-6">
+   <img alt="R1DZ STORE logo with blue gradient R symbol inside black circle with white border" class="relative rounded-full border-4 border-white" height="128" loading="lazy" src="WhatsApp Image 2025-06-14 at 10.30.34.jpeg" width="128"/>
+  </div>
+  <div class="text-center max-w-md">
+   <h1 class="text-lg font-semibold mb-1">
+    R1DZ STORE
+   </h1>
+   <p class="text-sm mb-6 leading-tight">
+    R1DZ STORE NOMER 1 DI DUNIA | ANTI HACKBAK | GARANSI SELAMANYA | BISA COD
+   </p>
+   <h2 class="font-semibold mb-4">
+    R1DZ STORE !!!
+   </h2>
+   <div class="space-y-4 mb-8">
+    <a class="flex items-center bg-blue-500 text-white rounded-3xl px-6 py-3 shadow-[8px_8px_0_0_rgba(0,0,0,0.7)]" href="#">
+     <img alt="Red and blue RAPSPOINT logo icon" class="w-10 h-10 rounded-full mr-4" height="40" loading="lazy" src="https://storage.googleapis.com/a1aa/image/db5c7037-a9d0-4163-4114-7e763bac9cb5.jpg" width="40"/>
+     <span class="flex-1 text-sm">
+      JUAL BELI AKUN ROBLOX
+     </span>
+     <i class="fas fa-ellipsis-v text-white">
+     </i>
+    </a>
+    <a class="flex items-center bg-blue-500 text-white rounded-3xl px-6 py-3 shadow-[8px_8px_0_0_rgba(0,0,0,0.7)]" href="#">
+     <img alt="White and blue Z logo icon" class="w-10 h-10 rounded-full mr-4" height="40" loading="lazy" src="https://storage.googleapis.com/a1aa/image/115c23f9-a598-4e4d-402e-1eb2d01979b9.jpg" width="40"/>
+     <span class="flex-1 text-sm">
+      JOKI ROBLOX
+     </span>
+     <i class="fas fa-ellipsis-v text-white">
+     </i>
+    </a>
+    <a class="flex items-center bg-blue-500 text-white rounded-3xl px-6 py-3 shadow-[8px_8px_0_0_rgba(0,0,0,0.7)]" href="#">
+     <img alt="Blue and black  R1DZ STORE logo icon" class="w-10 h-10 rounded-full mr-4" height="40" loading="lazy" src="https://storage.googleapis.com/a1aa/image/d2b6615d-7bbe-4f5f-1134-3693e046f5ff.jpg" width="40"/>
+     <span class="flex-1 text-sm">
+      BELI AKUN VIA WHATSAPP
+     </span>
+     <i class="fas fa-ellipsis-v text-white">
+     </i>
+    </a>
+   </div>
+   <h3 class="font-semibold mb-4 text-base">
+    AKUN INSTAGRAM R1DZ STORE YANG ASLI
+    <i class="fas fa-arrow-down">
+    </i>
+   </h3>
+  </div>
+ </body>
+</html>
